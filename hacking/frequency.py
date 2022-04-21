@@ -26,7 +26,3 @@ def frequency(letter,word):
 
 print('test1')
 test1=frequency(letter,word+word2+word3+word4)
-#print('test2')
-#test2=frequency(letter,word2)
-#print('test3')
-#test3=frequency(letter,word3)

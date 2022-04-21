@@ -1,4 +1,4 @@
-with open('message2.txt','r') as file:
+with open('picomessage.txt','r') as file:
         string=file.read()
 
 strlist=[int(x)%41 for x in string.split()]
