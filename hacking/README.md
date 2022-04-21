@@ -21,3 +21,20 @@ This CTF has been hosted by Carnegie Mellon University since 2013 and it's a fre
 A space themed CTF hosted by Florida Tech, it ran for 3 days, a more challenging due to it's timeframe and that it's not aimed at begginers. Out of 778 contestants, I ranked 250. 
 
 ![Space Heroes CTF Ranking](./rankings/spaceCTF.png)
+
+
+### **_Program descriptions_**
+
+_1. decrypt.py_
+
+I did this program to do a modular inverse of a sequence of numbers and then mapped the result to the ascii values of said results, giving me the answer for the challenge.
+
+_2. diffie.py_
+
+This one used a Diffie-Hellman key exchange algorithm that I applied to get the key to decrypt a Caesar Cypher encripted message.
+
+_3. frequency.py_
+
+This one I've used to analyse letter frequency in order to decrypt messages based on common letter frequency in the English Language.
+
+
