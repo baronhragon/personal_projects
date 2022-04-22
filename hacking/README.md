@@ -18,7 +18,7 @@ This CTF has been hosted by Carnegie Mellon University since 2013 and it's a fre
 
 ## Space Heroes CTF
 
-A space themed CTF hosted by Florida Tech, it ran for 3 days, a more challenging due to it's timeframe and that it's not aimed at begginers. Out of 778 contestants, I ranked 250. 
+A space themed CTF hosted by Florida Tech, it ran for 3 days, more challenging due to it's timeframe and that it's not aimed at begginers. Out of 778 contestants, I ranked 250. 
 
 ![Space Heroes CTF Ranking](./rankings/spaceCTF.png)
 
