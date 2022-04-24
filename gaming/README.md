@@ -12,7 +12,7 @@ This is just a tech demo of various attributes from curses module for python.
 
 This is a sample demo of a game that utilizes the curses module. The idea is that the '@' is the player. The "T"s are trees and they spawn randomly in the leftmost quadrant of the playing window. The "M" is a chest which switches to True when the player is near. Trees show their health when player approaches and you can chop trees by pressing 'c' and you can pick up wood by pressing 'p'.You can drop wood in the chest by standing close to it and pressing 'd' or you can place wood on the ground to place a new Tree. You can also pick up wood from chest with 'p'. Player inventory and chest inventory is displayed on the top left hand corner. Arrow keys move the player and 'a' quits the game.
 
-## _lightdark.py__
+## _lightdark.py_
 
 This program is a common rain simulator program. I made it also in curses and I wanted the rain to change shape as well as color depending on the position of the object at a given moment.
 
